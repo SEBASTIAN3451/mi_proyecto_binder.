@@ -1,12 +1,11 @@
-numpy 
+numpy
 pandas
 matplotlib
 voila
-sklearn
+scikit-learn
 keras
-ipywidgets 
+ipywidgets
 pillow
-cv2
+opencv-python
 ultralytics
-venv
-searborn
+seaborn
