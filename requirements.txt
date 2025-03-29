@@ -1,0 +1,12 @@
+numpy 
+pandas
+matplotlib
+voila
+sklearn
+keras
+ipywidgets 
+pillow
+cv2
+ultralytics
+venv
+searborn
